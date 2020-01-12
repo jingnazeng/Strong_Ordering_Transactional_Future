@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="contlib/ArrayAccess/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/contlib/ArrayAccess"/>
+	<classpathentry kind="lib" path="libs/advice-1.5.jar"/>
+	<classpathentry kind="lib" path="libs/jvstm-2.3.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/ext/sunec.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/ext/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/jce.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/resources.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/rt.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/security/local_policy.jar"/>
+	<classpathentry kind="lib" path="libs/openjdk-continuation-vm2013-linux-amd64/lib/security/US_export_policy.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
